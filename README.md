@@ -1,8 +1,9 @@
 # iOS-Expert
 
 <p align="center">
-<a href="https://youtu.be/f6WtmTBFNGM"><img src="https://i.imgur.com/YUY0BO6.jpeg" style="height: 75%; width:75%;"/></center></a></p
+<a href="https://youtu.be/f6WtmTBFNGM"><img src="https://i.imgur.com/YUY0BO6.jpeg" style="height: 75%; width:75%;"/></center></a></p>
 
+Aprende a programar aplicaciones iOS sin conocimientos previos. Empezaremos desde lo más básico hasta conseguir desarrollar varias aplicaciones completas.
 
 ## Aprende a PROGRAMAR aplicaciones iOS en SWIFT desde CERO con SWIFTUI.
 
